@@ -9,7 +9,7 @@ The program uses all built-in functionality, no dependencies.
 ## Usage Example
 
 ```
-# python3 spelling-bee-solver.py Abcdefg
+# python3 spelling_bee_solver.py Abcdefg
 CABBAGED [8]
 DEBAGGED [8]
 ACCEDED [7]
